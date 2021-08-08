@@ -151,7 +151,7 @@ showPyplotGlobalUse = "True"
 
 # URL root for external view of Streamlit apps.
 # Default: (unset)
-# url = "https://share.streamlit.io/bhushanbirwadkar/heart-disease-prediction/main/heart.py"
+url = "https://share.streamlit.io/bhushanbirwadkar/heart-disease-prediction/main/heart.py"
 
 # Access key to write to the S3 bucket.
 # Leave unset if you want to use an AWS profile.
